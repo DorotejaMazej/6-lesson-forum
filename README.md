@@ -1,3 +1,4 @@
 # 6-lesson-forum
 
-http://forumstemami.appspot.com
+https://forum-160622.appspot.com/
+
